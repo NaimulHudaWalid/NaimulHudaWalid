@@ -1,6 +1,6 @@
 ![github_cover_banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
-### Hey I am [👨🏻‍][facebook] Naimul Huda Walid, AKA [naimul15-12090][youtube]
+### Hey I am [👨🏻‍][facebook] [Naimul Huda Walid][youtube]
 
 
 
