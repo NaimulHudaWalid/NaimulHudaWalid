@@ -48,7 +48,7 @@
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img  alt="Laravel" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+      <img  alt="Laravel" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img  alt="php" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -128,11 +128,11 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimul15-12090&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaimulHudaWalid&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=naimul15-12090&count_private=true&theme=algolia&border_radius=22)
+![GitHub Streak](https://streak-stats.demolab.com?user=NaimulHudaWalid&count_private=true&theme=algolia&border_radius=22)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimul15-12090&langs_count=8&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulHudaWalid&langs_count=8&layout=compact&show_icons=true&theme=algolia&border_radius=20)
     
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimul15-12090&langs_count=8) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimul15-12090&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -161,7 +161,7 @@ No activity tracked
     <a href="https://www.linkedin.com/in/naimulhudawalid/" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
     </a>
-    <a href="mailto:naimulhuda12345@gmail.com" target="_blank">
+    <a href="mailto:dev.naimulhuda@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
