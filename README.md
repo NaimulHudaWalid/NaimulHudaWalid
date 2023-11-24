@@ -48,7 +48,7 @@
       <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img  alt="Laravel" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Laravel/Laravel-original.svg"/>
+      <img  alt="Laravel" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img  alt="php" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
