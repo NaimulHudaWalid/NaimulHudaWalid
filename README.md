@@ -1,4 +1,8 @@
-![github_cover_banner](https://raw.githubusercontent.com/NaimulHudaWalid/NaimulHudaWalid/main/272276268_3114779035434264_920860974401480824_n.jpg)
+<!-- ![github_cover_banner](https://www.digitalsolutionservices.com/img/services/web%20development.gif)-->
+
+<div align="center" style="display:block;">
+    <img height="400px" alt="github cover banner" src="https://raw.githubusercontent.com/NaimulHudaWalid/NaimulHudaWalid/main/272276268_3114779035434264_920860974401480824_n.jpg"/> 
+</div>
 
 ### Hey I am [👨🏻‍][facebook] [Naimul Huda Walid][youtube]
 
