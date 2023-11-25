@@ -10,5 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UCa3YaFwzSII0kKg3Nads2dQ
+    with:
+      channel_id: UCa3YaFwzSII0kKg3Nads2dQ
+      comment_tag_name: YOUTUBE-CARDS
+      youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+      show_duration: true
