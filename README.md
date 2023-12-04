@@ -151,9 +151,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 18 mins    ██████████████░░░░░░░░░░░   55.59 %
-HTML         34 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.67 %
-CSS          27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
