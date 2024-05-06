@@ -151,8 +151,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Twig   14 mins         █████████████████████████   99.70 %
-PHP    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
